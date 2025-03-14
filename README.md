@@ -38,6 +38,8 @@ This project is an IoT application that listens to an Arduino device over a seri
 
 - `server.js`: Main server file that handles serial port communication and logging.
 - `log.json`: File where received data is logged with timestamps.
+- `demo.mp4`: Demonstration video of the project in action.
+- `schema.bmp`: Schematic diagram of the hardware setup.
 
 ## License
 
